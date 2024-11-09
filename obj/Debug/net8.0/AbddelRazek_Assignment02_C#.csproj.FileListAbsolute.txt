@@ -1,0 +1,14 @@
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\bin\Debug\net8.0\AbddelRazek_Assignment02_C#.exe
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\bin\Debug\net8.0\AbddelRazek_Assignment02_C#.deps.json
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\bin\Debug\net8.0\AbddelRazek_Assignment02_C#.runtimeconfig.json
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\bin\Debug\net8.0\AbddelRazek_Assignment02_C#.dll
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\bin\Debug\net8.0\AbddelRazek_Assignment02_C#.pdb
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.AssemblyInfo.cs
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.dll
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\refint\AbddelRazek_Assignment02_C#.dll
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.pdb
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\AbddelRazek_Assignment02_C#.genruntimeconfig.cache
+C:\Users\smart\source\repos\AbddelRazek_Assignment02_C#\AbddelRazek_Assignment02_C#\obj\Debug\net8.0\ref\AbddelRazek_Assignment02_C#.dll
